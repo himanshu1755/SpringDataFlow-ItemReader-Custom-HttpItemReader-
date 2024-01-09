@@ -1,0 +1,6 @@
+com/spring/data_flow_readers/http_reader/reader/HttpItemReader.class
+com/spring/data_flow_readers/http_reader/configuration/BatchConfiguration.class
+com/spring/data_flow_readers/http_reader/processor/ProcessedResponse.class
+com/spring/data_flow_readers/http_reader/DataFlowReaderApplication.class
+com/spring/data_flow_readers/http_reader/processor/CustomProcessor.class
+com/spring/data_flow_readers/http_reader/models/RefreshTokenResponse.class
